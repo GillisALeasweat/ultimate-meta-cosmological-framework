@@ -1,4 +1,3 @@
----
 
 # 究極のメタ・コスモロジー・フレームワーク (Ultimate Meta-Cosmological Framework)
 
